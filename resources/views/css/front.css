@@ -1,0 +1,74 @@
+html, body
+{
+    height: 100%;
+    width:100%;
+    font-family: 'Poppins', sans-serif;
+    color: #222;
+    font: size 100;
+}
+.card{
+    padding:30px ;
+    box-shadow: black;
+}
+.contact{
+    background-image: url("img/h9.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover ;
+}
+.navbar{
+    padding: .8rem
+    
+}
+.navbar-nav li{
+    padding-right: 20px;
+}
+.nav-link{
+    font-size: 1.1em !important;
+}
+.carousel-inner img{
+    height: 100vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+.carousel-caption{
+    position: absolute;
+    top: 55%;
+    transform: translateY(-50%); 
+}
+.carousel-caption h1{
+    
+    font-size: 500%;
+    text-transform: uppercase;
+    text-shadow:1px 1px 10px  #222;
+}
+.carousel-caption h4{
+    
+    color: #222;
+    font-size: 200%;
+    font-weight: 500%;
+    text-shadow: 1px 1px 10px #222;
+}
+.carousel-caption h5{
+    top: 25%;
+    font-size:200%;
+    font-weight: 500%;
+        
+}
+
+footer{
+    background-color:#222;
+    color: #d5d5d5;
+    padding-top: 2rem;
+}
+hr.light{
+    border-top: 1px solid #d5d5d5;
+    width: 100%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+
+
+

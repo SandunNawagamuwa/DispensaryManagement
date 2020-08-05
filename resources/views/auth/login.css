@@ -1,0 +1,60 @@
+.bg{
+    background: url("img/h12.jpg") no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg1{
+    background: url("img/h16.jpg") no-repeat; 
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.bg2{
+    background: url("img/h18.jpg") no-repeat;
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.bg21{
+    background: url("img/h18.jpg") no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.bg3{
+    background: url("img/h16.jpg") no-repeat;
+    width: 100%;   
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.bg4{
+    background: url("img/h11.jpg") no-repeat;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.form-container{
+    
+    border: 1px solid #fff;
+    padding: 50px 60px 50px 60px;
+    margin-top: 15%;
+    -webkit-box-shadow:6px 5px 29px 9px rgba(0,0,0,1) ;
+    -moz-box-shadow:6px 5px 29px 9px rgba(0,0,0,1) ;
+    box-shadow: 6px 5px 29px 9px rgba(0,0,0,1) ;
+
+}
